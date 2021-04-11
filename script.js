@@ -16,12 +16,9 @@ function add(i,j){
   return i+j;
 }
 function subtract(i,j){
-  return i-j;
+  return "todo";//todo finish this function
 }
-function multiply(i,j){
-  //correctly write the multiply function
-  return "todo";
-}
+//todo write the multiply function from scratch
 function divide(i,j){
   if (i==0) return "NaN";
   return i/j;
