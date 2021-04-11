@@ -19,7 +19,8 @@ function subtract(i,j){
   return i-j;
 }
 function multiply(i,j){
-  return i*j;
+  //correctly write the multiply function
+  return "todo";
 }
 function divide(i,j){
   if (i==0) return "NaN";
